@@ -26,15 +26,15 @@ Hi, I'm **João Vitor**, a full-stack developer and data analyst based in Fortal
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./prompt-whoami-dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="./prompt-whoami-light.svg?v=6">
-  <img alt="joao@github ~ $ whoami" src="./prompt-whoami-dark.svg?v=6" height="40">
+  <source media="(prefers-color-scheme: dark)" srcset="./prompt-whoami-dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./prompt-whoami-light.svg?v=7">
+  <img alt="joao@github ~ $ whoami" src="./prompt-whoami-dark.svg?v=7" height="40">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./info-card-dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="./info-card-light.svg?v=6">
-  <img alt="João Vitor Matos de Sousa: Full-Stack Developer, Data Analyst and QA. Stack: Python, Django, React, TypeScript, AWS." src="./info-card-dark.svg?v=6" width="460">
+  <source media="(prefers-color-scheme: dark)" srcset="./info-card-dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./info-card-light.svg?v=7">
+  <img alt="João Vitor Matos de Sousa: Full-Stack Developer, Data Analyst and QA. Stack: Python, Django, React, TypeScript, AWS." src="./info-card-dark.svg?v=7" width="460">
 </picture>
 
 </div>
