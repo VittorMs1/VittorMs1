@@ -1,6 +1,6 @@
 # João Vitor Matos de Sousa
 
-**Full-Stack Developer · Requirements Analyst · QA**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Full-Stack+Developer;Requirements+Analysis+%26+QA;Building+reliable+software,+end+to+end" alt="Full-Stack Developer | Requirements Analysis & QA | Building reliable software, end to end" />
 
 ---
 
